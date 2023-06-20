@@ -1,0 +1,47 @@
+body{
+    background-color: black;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.5em;
+    text-align: center;
+  }
+  
+  form{
+    background-color: #34495e;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    color: white;
+    align-items: center;
+    margin: 0 auto;
+    width: 50%;
+  }
+
+  tr{
+    background-color: #34495e;
+    color: white;
+  }
+
+  .table{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    color: white;
+    align-items: center;
+    margin: 0 auto;
+    width: 100%;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+  background-color: lightslategray;
+  border-radius: 5px;
+}
+
+a:hover {
+  background-color: white;
+  color: black;
+}
